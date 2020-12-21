@@ -1,4 +1,4 @@
-# 基于github action的京东自动化签什么到
+# 基于github action的京东自动化儿签么到
 
 ## 介绍
 
@@ -60,4 +60,4 @@
 ## 参考项目
 * [NobyDa/Script/JD-DailyBonus](https://github.com/NobyDa/Script/blob/master/JD-DailyBonus/JD_DailyBonus.js)
 * [ruicky/jd-sign-bot](https://github.com/ruicky/jd_sign_bot)
-* [jerrykuku/luci-app-jd-dailybonus](https://github.com/jerrykuku/luci-app-jd-dailybonus)
+* [j
